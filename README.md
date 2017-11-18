@@ -9,15 +9,14 @@ Our objective is to create a cluster of 8 Raspberry Pi's that can be used as mas
 master will employ Kubernetes to orchestrate containers and run mapreduce on them. 
 
 ## Team Members
-Matthew Grider
-Nick Zakharov
-Ibrahiem Mohammad
-Priyam Patel
-Robert Hull
-Michael Koutsostamatis
-Daniel Kloza
-Amy
-Kaeyan
+Matthew Grider,
+Nick Zakharov,
+Ibrahiem Mohammad,
+Priyam Patel,
+Robert Hull,
+Michael Koutsostamatis,
+Daniel Kloza,
+Kaeyan Jones
 
 ## Process
 
