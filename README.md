@@ -18,16 +18,7 @@ Michael Koutsostamatis,
 Daniel Kloza,
 Kaeyan Jones
 
-## Process
-
-### Research
-
-### Implementation
-
-### Videos
-
-### Journal
-
+More Information found in the Documentation PDF
 
 
 
